@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ImSocketServer"
+  id="myeclipse.1432780173234"
+  context-root="/ImSocketServer"
+  j2ee-spec="6.0"
+  archive="ImSocketServer.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
